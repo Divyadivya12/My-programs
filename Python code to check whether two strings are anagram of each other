@@ -1,0 +1,8 @@
+str1=input ("string 1:")
+str2=input ("string 2:")
+sorted_str1=sorted (str1)
+sorted_str2=sorted (str2)
+if sorted_str1==sorted _str2:
+   print ("the two strings are anagram of each other")
+else:
+   print ("the two strings are not anagram")
